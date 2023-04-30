@@ -2,7 +2,7 @@
 
 ## 🏁 우아한테크코스 <a href="#wooteco" id="wooteco"></a>
 
-- [우아한테크코스 5기](README.md)
+- [우아한테크코스 5기](wooteco/README.md)
 
 - [Java 학습](wooteco/study/java/README.md) 
   - [static method](자바의%20static%20method.md)

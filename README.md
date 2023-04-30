@@ -1,9 +1,7 @@
----
-description: 우아한테크코스 5기를 진행하며 남긴 회고들을 모읍니다.
----
+# Juno Wiki
 
-# 우아한테크코스
+개인적으로 남기고자 하는 글 혹은 회고를 모아두는 공간입니다.
 
-트랙 : BackEnd
+✨📚 gitbook : https://juno-wiki.gitbook.io/log
 
-진행날짜 : 2023.02.07 \~ 진행중
+✨🐙 github : https://github.com/Choi-JJunho

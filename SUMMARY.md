@@ -2,11 +2,6 @@
 
 * [Juno Wiki](README.md)
 
-## 🤔 TIL <a href="#TIL" id="TIL"></a>
-
-* [TIL](TIL/README.md)
-    * [2023-05-01](TIL/log/2023-05-01.md)
-
 ## 🏁 우아한테크코스 <a href="#wooteco" id="wooteco"></a>
 
 * [우아한테크코스 5기](wooteco/README.md)
@@ -20,9 +15,11 @@
     * [1주차 회고](wooteco/log/weekly/week1.md)
 
 
-## 📝 연간 회고 <a href="#year-log" id="year-log"></a>
+## 개인 기록 <a href="#personal-log" id="personal-log"></a>
 
 * [연간 회고](year-log/README.md)
   * [2020년 회고](year-log/store/2020y.md)
   * [2021년 회고](year-log/store/2021y.md)
   * [2022년 회고](year-log/store/2022y.md)
+* [TIL](TIL/README.md)
+    * [2023-05-01](TIL/log/2023-05-01.md)

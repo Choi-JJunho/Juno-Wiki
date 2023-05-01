@@ -5,6 +5,7 @@
 ## 🤔 TIL <a href="#TIL" id="TIL"></a>
 
 * [TIL](TIL/README.md)
+    * [2023-05-01](TIL/log/2023-05-01.md)
 
 ## 🏁 우아한테크코스 <a href="#wooteco" id="wooteco"></a>
 

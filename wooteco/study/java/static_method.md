@@ -1,4 +1,5 @@
-# 서론
+
+# 자바의 static method
 
 ![](https://velog.velcdn.com/images/junho5336/post/4675b26e-917c-416c-9c69-3f2d2758aab7/image.png)
 

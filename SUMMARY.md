@@ -4,6 +4,9 @@
 
 ## 개인 기록 <a href="#personal-log" id="personal-log"></a>
 
+* [👻 ETC](ETC/README.md)
+	* [우테코 레벨 1 글쓰기](ETC/log/우테코-레벨1-글쓰기.md)
+
 * [⛳️ TIL](TIL/README.md)
 	* [5월의 TIL](TIL/log/5월/README.md)
 		* [2023-05-01](TIL/log/5월/2023-05-01.md)
